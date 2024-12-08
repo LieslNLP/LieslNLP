@@ -2,7 +2,7 @@
 
 Hi, I'm Liesl! 👋
 
-I'm an aspiring NLP Specialist with a strong background in education, specifically teaching Afrikaans, Life Skills and Art. My passion lies in combining **language, technology, and creative problem solving** to create impactful solutions in **education technology** and **localisation**.
+I'm an aspiring NLP Specialist with a strong background in education, specifically teaching Afrikaans, Coding & Robotics, Life Skills and Art. My passion lies in combining **language, technology, and creative problem solving** to create impactful solutions in **education technology** and **localisation**.
 
 ## Interests
 - 🌍 Developing NLP tools for **Afrikaans**.
